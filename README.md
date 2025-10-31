@@ -11,6 +11,7 @@ The system processes Walmart and DMart invoice images to extract details such as
 ## Goal: Minimize the time required to extract text from retail bills.
 ## Constraints: Reduce manual effort and human error while maintaining high accuracy.
 ## Methodology: Implemented using the CRISP-ML(Q) framework with six stages:
+![Architecture](architecture_crisp.png)
 
 Business and Data Understanding
 
