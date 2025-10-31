@@ -32,6 +32,8 @@ System Architecture
 Image Input: Accept raw image files (JPG, PNG) from retail stores.
 
 Preprocessing: Binarization, Skew Correction, Noise Removal, Contrast Enhancement, and Normalization.
+![Preprocessing](strategy.png)
+
 
 Segmentation: Detect lines and words for region-based text extraction.
 
