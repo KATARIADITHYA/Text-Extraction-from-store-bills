@@ -103,3 +103,5 @@ Expansion to handle invoices, receipts, and handwritten text.
 # Conclusion
 
 This project successfully automates OCR-based text extraction from unstructured store bills, achieving high accuracy, minimal manual effort, and near real-time processing. It establishes a scalable and reliable solution for retail analytics and document automation.
+![Streamlit](billsproject.png)
+
